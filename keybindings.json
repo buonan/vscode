@@ -1,0 +1,19 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "ctrl+cmd+/",
+        "command": "macros.parseUrl"
+    },
+    {
+      "key": "ctrl+shift+]",
+      "command": "workbench.action.terminal.focusNext"
+    },
+    {
+      "key": "ctrl+shift+[",
+      "command": "workbench.action.terminal.focusPrevious"
+    },
+    {
+      "key": "ctrl+shift+t",
+      "command": "workbench.action.terminal.focus"
+    }
+]

@@ -1,0 +1,45 @@
+{
+    "editor.minimap.enabled": false,
+    "editor.detectIndentation": false,
+    "editor.tokenColorCustomizations": {
+        "enabled": true
+    },
+    "editor.renderWhitespace": "all",
+    "terminal.integrated.shell.osx": "/bin/bash",
+    "omnisharp.useEditorFormattingSettings": false,
+    "omnisharp.path": "latest",
+    "omnisharp.monoPath": "/Library/Frameworks/Mono.framework/Versions/Current/Commands/mono",
+    "omnisharp.useGlobalMono": "always",
+    "extensions.ignoreRecommendations": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "window.zoomLevel": 0,
+    "files.trimTrailingWhitespace": true,
+    "csharp.suppressDotnetInstallWarning": true,
+    "[csharp]": {
+        "editor.tabSize": 4
+    },
+    "[javascript]": {
+        "editor.tabSize": 2,
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescript]": {
+        "editor.tabSize": 2,
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "macros": {
+        "parseUrl": [
+            "cursorDown"
+        ]
+    },
+    "workbench.sideBar.location": "left",
+    "editor.tabSize": 2,
+    "[jsonc]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "diffEditor.renderSideBySide": true,
+    "files.autoSave": "afterDelay",
+    "python.disableInstallationCheck": true,
+    "gitlens.views.repositories.files.layout": "tree",
+    "terminal.integrated.scrollback": 20000,
+    "javascript.implicitProjectConfig.experimentalDecorators": true
+}
